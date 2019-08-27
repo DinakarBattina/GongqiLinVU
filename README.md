@@ -19,5 +19,5 @@ The goal of this project is to build a tracking system for aged care. We have pr
 
 #Reference
 
-[4] https://github.com/nwojke/deep_sort
+
 [5] https://github.com/davidsandberg/facenet
