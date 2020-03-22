@@ -21,4 +21,5 @@ The goal of this project is to build a tracking system for aged care. We have pr
 
 
 [5] https://github.com/davidsandberg/facenet \
-[0] https://github.com/ageitgey/face_recognition
+[0] https://github.com/ageitgey/face_recognition \
+[1] https://github.com/justadudewhohacks/tfjs-tiny-yolov2
